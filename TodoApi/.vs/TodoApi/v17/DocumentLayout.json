@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\janti\\OneDrive\\Documents\\GitHub\\TodoApi-ASP.NetCoreWebAPI\\TodoApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40261CC8-0CBE-478D-A66C-BDBE8AE155DA}|TodoApi\\TodoApi.csproj|c:\\users\\janti\\onedrive\\documents\\github\\todoapi-asp.netcorewebapi\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40261CC8-0CBE-478D-A66C-BDBE8AE155DA}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40261CC8-0CBE-478D-A66C-BDBE8AE155DA}|TodoApi\\TodoApi.csproj|c:\\users\\janti\\onedrive\\documents\\github\\todoapi-asp.netcorewebapi\\todoapi\\todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40261CC8-0CBE-478D-A66C-BDBE8AE155DA}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\janti\\OneDrive\\Documents\\GitHub\\TodoApi-ASP.NetCoreWebAPI\\TodoApi\\TodoApi\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Program.cs",
+              "ToolTip": "C:\\Users\\janti\\OneDrive\\Documents\\GitHub\\TodoApi-ASP.NetCoreWebAPI\\TodoApi\\TodoApi\\Program.cs",
+              "RelativeToolTip": "TodoApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T16:48:53.093Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -34,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TodoContext.cs",
               "DocumentMoniker": "C:\\Users\\janti\\OneDrive\\Documents\\GitHub\\TodoApi-ASP.NetCoreWebAPI\\TodoApi\\TodoApi\\Models\\TodoContext.cs",
               "RelativeDocumentMoniker": "TodoApi\\Models\\TodoContext.cs",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TodoItem.cs",
               "DocumentMoniker": "C:\\Users\\janti\\OneDrive\\Documents\\GitHub\\TodoApi-ASP.NetCoreWebAPI\\TodoApi\\TodoApi\\Models\\TodoItem.cs",
               "RelativeDocumentMoniker": "TodoApi\\Models\\TodoItem.cs",
@@ -55,8 +72,7 @@
               "RelativeToolTip": "TodoApi\\Models\\TodoItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T16:40:35.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T16:40:35.186Z"
             }
           ]
         },
